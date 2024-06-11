@@ -44,3 +44,9 @@
 - Pedri: no traer shampoo a las vacaciones.
 - Fla/3: tenemos alma de villa.
 - Pika: "como no sabían que era imposible, lo hicieron"
+
+----
+
+![Primera página](./images/2013-01-04-bitacora-01.jpg)
+![Segunda página](./images/2013-01-04-bitacora-02.jpg)
+

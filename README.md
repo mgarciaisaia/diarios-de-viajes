@@ -9,3 +9,5 @@ En 2014, cuando Sabri se fue de viaje más largo, se llevó el cuaderno de gira.
 Apenas 10 añitos tardé en transcribirlos.
 
 Acá están.
+
+![El cuaderno](./images/00-el-cuaderno.jpg)
